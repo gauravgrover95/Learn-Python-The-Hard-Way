@@ -1,0 +1,31 @@
+
+ex14: file handling
+ex15: reading and writing files
+ex16: making a text editor
+ex17: copying 1 text file to other
+ex17_2: one line code for ex17
+ex18: Names, Variables, Code,Functions
+ex19: Functions And Variables
+ex20: Functions And Files
+ex21: returning from a function
+ex22: Revision
+ex23: READING CODE /**/**/ INCOMPLETE
+ex24: some more practice (functions that returns multiple values)
+ex25: even more practice (making a python terminal script)
+ex26: Congratulations, Take A Test! /**/**/ INCOMPLETE
+ex27: 
+ex34: ordinal(in order) and cardinal(randowm) numbers /**/**/ INCOMPLETE
+ex35: useful rules to programming // code little run little fix little && always use die function with error message 
+		in else statement which acts as default statement.. these are somebeautiful pieces of advice...
+ex36: Reviewing and using symbols /**/**/ INCOMPLETE (takes time and reseearch)
+ex37: Reading Code /**/**/ 	INCOMPLETE (requires printer, internet and efforts)
+ex41: View Of A Bear at programs // great advice about reading programs
+ex41: (the program) /**/**/INCOMPLETE ( Its a game whose inputs are required to be modified as options)
+		//PLZ  complete extra credits...
+ex43: make a game /**/**/ INCOMPLETE // it will take time and i want to finish it asap
+ex44: evaluate your game /**/**/ INCOMPLETE
+ex45: classes and inherritence. /**/**/ INCOMPLETE not worked out with other people's code
+		/**/**/INCOMPLETE have not worked out with super function
+ex46: /**/**/INCOMPLETE packages not installed yet
+ex47: /**/**/INCOMPLETE i will do it after project setup is complete
+
